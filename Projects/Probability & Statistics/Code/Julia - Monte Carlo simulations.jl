@@ -6,8 +6,8 @@ using Base.Threads
 using BenchmarkTools
 
 
-## Using Random Normal Distribution
-## Basic
+## Group 1 - Using Random Normal Distribution
+## 1. Basic
 function max_length_of_runs()
     flips = rand(["H", "T"], 100)
     lengths_rle = StatsBase.rle(flips)
@@ -19,8 +19,8 @@ max_lengths = [max_length_of_runs() for _ in 1:num_simulations]
 mean_length = mean(max_lengths)
 println(mean_length)
 
-
-## Using multithreading
+"""
+## 2. Using multithreading
 function max_length_of_runs()
     flips = rand(["H", "T"], 100)
     lengths_rle = StatsBase.rle(flips)
@@ -28,6 +28,7 @@ function max_length_of_runs()
 end
 
 num_simulations = 1_000_000
+
 
 # Run simulations in parallel using multithreading
 max_lengths = Vector{Int}(undef, num_simulations)
@@ -38,8 +39,11 @@ end
 mean_length = mean(max_lengths)
 println(mean_length)
 
-## Using Binomial Distribution
-## Basic
+"""
+
+"""
+## Group 2 - Using Binomial Distribution
+## 1. Basic
 function max_length_of_runs()
     flips = rand(Distributions.Binomial(1, 0.5), 100)
     lengths_rle = StatsBase.rle(flips)
@@ -51,8 +55,10 @@ max_lengths = [max_length_of_runs() for _ in 1:num_simulations]
 mean_length = mean(max_lengths)
 println(mean_length)
 
+"""
 
-## Using multithreading
+"""
+## 2. Using multithreading
 function max_length_of_runs()
     flips = rand(Distributions.Binomial(1, 0.5), 100)
     lengths_rle = StatsBase.rle(flips)
@@ -69,3 +75,4 @@ end
 
 mean_length = mean(max_lengths)
 println(mean_length)
+"""
