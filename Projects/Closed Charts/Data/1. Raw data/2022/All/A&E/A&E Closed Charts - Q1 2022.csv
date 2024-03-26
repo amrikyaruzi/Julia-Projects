@@ -1,0 +1,1124 @@
+PATIENT NAMES,MR Number,Month,Year,DOCTOR,RMO,NURSE,DEPT,SNN,DOCUMENTS,TYPE,DOCUMENTED,TIMELY,LEGIBLE,COMPLETE
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,N,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Daudi Migani,037-13-23,January,2022,Elishah Premji,Mabula Mabelele,Asha,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Srinivasan Nelluvoy,163-96-10,January,2022,Hussein Manji,Valentino,Saumu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,N,Y
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Felista Mbepera,155-02-11,January,2022,Kilalo Mjema,Shivangi Mandania,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,N,Y
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,N
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Shigongo Kimogele,163-97-26,January,2022,Muhanuzi Biita,,Biseko,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Rahma Wangenyi,055-49-30,January,2022,Elishah Premji,Shivangi Mandania,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Innocensia Fussi,158-39-06,January,2022,Muhanuzi Biita,Reinfrida,Biseko,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Michael Malulu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Michael Malulu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Michael Malulu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Lumuliko,Saumu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Chacha Wangengi,036-12-07,January,2022,Muhanuzi Biita,Intern,Saumu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,1.1,Physician Initial Assessment All components,P,D,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Shivangi Mandania,,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,N,Y
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Zenais Matemu,,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Magdalena Mweri,159-53-04,January,2022,Kilalo Mjema,Shivangi Mandania,,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,N,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,N,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,N,Y
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Hadi Somji,155-74-02,January,2022,Elishah Premji,Gloria Manyaga,Clementina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,N,Y
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Salome Ntaro,006-40-03,January,2022,Elishah Premji,,Biseko,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,ND,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Dora Msana,162-80-02,January,2022,Hussein Manji,Nice Kagya,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,1.2,Nursing Initial Assessment All components,N,D,N,Y,N
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,ND,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Jeff Mujengwa,145-96-29,January,2022,Hussein Manji,Musa Machibya,Sabry,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,N,Y
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Malkia Kilimo,045-58-32,January,2022,Elishah Premji,Zenais Matemu,,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,N,Y
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,ND,-,-,-
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,N
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,,-
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Umar Bryce,164-03-35,January,2022,Sherin Kassamali,Valentino,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Kisumo Mpina,162-90-10,January,2022,Elishah Premji,Iris Matei,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Mercy Nyanda,012-20-12,January,2022,Kilalo Mjema,Reinfrida,Maalim,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Zenais Matemu,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Nuru Nangali,049-85-12,January,2022,Kilalo Mjema,Valentino,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Do Anh,163-86-17,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Do Anh,163-86-18,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Do Anh,163-86-19,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Do Anh,163-86-20,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Do Anh,163-86-21,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Do Anh,163-86-22,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Do Anh,163-86-23,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Do Anh,163-86-24,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Do Anh,163-86-25,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Do Anh,163-86-26,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Do Anh,163-86-27,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Do Anh,163-86-28,January,2022,Hussein Manji,Musa Machibya,Clementina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,ND,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,N,Y
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,N,Y
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,N,Y
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Victoria Teri,038-53-17,January,2022,Elishah Premji,Lumuliko,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Xue Guojin,161-44-14,January,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,ND,-,-,-
+Hassina Dewji,164-01-07,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Hassina Dewji,164-01-08,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Hassina Dewji,164-01-09,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,N,Y
+Hassina Dewji,164-01-10,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Hassina Dewji,164-01-11,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Hassina Dewji,164-01-12,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,NA,-,-,-
+Hassina Dewji,164-01-13,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Hassina Dewji,164-01-14,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Hassina Dewji,164-01-15,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Hassina Dewji,164-01-16,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Hassina Dewji,164-01-17,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Hassina Dewji,164-01-18,January,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Shemsa Salum,051-10-01,January,2022,Muhanuzi Biita,Waziri Gahhu,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,N,Y
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Gervas Chagula,041-33-00,January,2022,Hussein Manji,Musa Machibya,James,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,N,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Bareek Masauni,162-89-01,February,2022,Hussein Manji,Gloria Manyaga,Basili,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Marius Siebert,049-96-03,February,2022,Kilalo Mjema,Reinfrida,Michael Malulu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,N,Y,Y
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Laila Rawel,159-83-03,February,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Israel Kitua,140-03-02,February,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Alfred Kivalu,117-15-02,February,2022,Kilalo Mjema,Reinfrida,Saumu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Innocensia Fussi,158-39-06,February,2022,Kilalo Mjema,Reinfrida,Asha,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Magreth Ezekiel,164-27-01,February,2022,Kilalo Mjema,Lumuliko,Asha,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Marissa Philip,040-20-14,February,2022,Hussein Manji,Waziri Gahhu,James,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,ND,-,-,-
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Godwin Kaganda,015-23-15,February,2022,Hussein Manji,Lumuliko,Basili,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,ND,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Malaika Duffield,164-13-25,February,2022,Elishah Premji,Nice Kagya,Maalim,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Musa Machibya,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,D,Y,Y,N
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Musa Machibya,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,D,Y,Y,Y
+Tariq Azzan,164-19-21,February,2022,Elishah Premji,Reinfrida,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,ND,-,-,-
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Nice Kagya,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,,-,-
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Joline Mwakaje,157-14-21,February,2022,Hussein Manji,Valentino,Biseko,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Malkia Kilimo,045-58-32,February,2022,Elishah Premji,Zenais Matemu,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Blessing Igogo,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Umar Bryce,044-41-20,February,2022,Elishah Premji,Lumuliko,Biseko,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Sameer Pira,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,ND,-,-,-
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Kisumo Mpina,049-84-19,February,2022,Sherin Kassamali,Valentino,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Chen Rong,161-00-03,February,2022,Hussein Manji,Valentino,Asha,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Asha,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Asha,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Asha,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Asha,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,NA,-,-,-
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Chen Rong,161-00-03,February,2022,Hussein Manji,Shivangi Mandania,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Kilalo Mjema,,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Khadiya Ahmad,036-72-19,February,2022,Elishah Premji,Shivangi Mandania,Sabry,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Shahenshah Mitha,163-86-18,February,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Ardo Ahmed,034-88-11,February,2022,Kilalo Mjema,Gloria Manyaga,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,1.2,Nursing Initial Assessment All components,N,ND,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,ND,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,ND,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,N,Y
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Guo Xiaofeng,162-84-15,February,2022,Sherin Kassamali,Valentino,Biseko,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Elvis Baganda,161-77-13,February,2022,Sherin Kassamali,Musa Machibya,Maalim,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Asanja Luog,164-26-11,February,2022,Kilalo Mjema,Valentino,Sabry,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,N,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Hamida Ali,161-16-08,February,2022,Elishah Premji,Reinfrida,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Salha Abood,164-06-05,February,2022,Hussein Manji,Nice Kagya,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Michael Malulu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Michael Malulu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Michael Malulu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Michael Malulu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,N,Y
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Maximino Msagamasi,058-43-09,February,2022,Hussein Manji,Gloria Manyaga,Saumu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Ninindraza Velondrazana,161-79-09,February,2022,Elishah Premji,Shivangi Mandania,Christina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Elishah Premji,Nice Kagya,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Kennedy Mgongolwa,040-64-09,February,2022,Kilalo Mjema,Gloria Manyaga,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Andrew Were,040-94-10,February,2022,Sherin Kassamali,Intern,Basili,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,1.2,Nursing Initial Assessment All components,N,ND,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,ND,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,ND,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,ND,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Katarina Tenga,011-04-09,February,2022,Sherin Kassamali,Valentino,,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,Waziri Gahhu,Clementina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,,Clementina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Ibrahim Hamadi,160-29-09,March,2022,Sherin Kassamali,Waziri Gahhu,Clementina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Asha,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,ND,-,-,-
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Caleb Hosea,046-56-00,March,2022,Elishah Premji,,Michael Malulu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Kilalo Mjema,Gloria Manyaga,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Asha,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Asha,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Pamela Mawala,055-50-01,March,2022,Hussein Manji,Musa Machibya,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,N
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Mehmet Budak,164-49-01,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Sabry,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Augustino Matoli,164-36-01,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,ND,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Magreth Ezekiel,164-27-01,March,2022,Kilalo Mjema,Lumuliko,Clementina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Dennis Bogere,164-48-00,March,2022,Sherin Kassamali,Lumuliko,Michael Malulu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Martina Mpella,163-97-00,March,2022,Muhanuzi Biita,Valentino,Basili,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Sam Kissandu,164-53-02,March,2022,Hussein Manji,Lumuliko,Basili,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,1.1,Physician Initial Assessment All components,P,ND,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Edda Rugangila,164-42-03,March,2022,Sherin Kassamali,,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Saumu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Chao Huang,164-37-07,March,2022,Hussein Manji,,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Vinay Karia,010-25-07,March,2022,Kilalo Mjema,Musa Machibya,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Anthonia Masalu,145-07-07,March,2022,,Gloria Manyaga,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,N,N
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Anthonia Masalu,145-07-07,March,2022,Muhanuzi Biita,Lumuliko,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Steven Bwana,164-47-07,March,2022,Elishah Premji,Shivangi Mandania,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Gillian Kirita,164-38-05,March,2022,Hussein Manji,Valentino,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Asha,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Gian Kirita,164-38-06,March,2022,Hussein Manji,Lumuliko,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,ND,-,-,-
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,N
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,N
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Mukhtar Salum,156-67-06,March,2022,Hussein Manji,,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Elizabeth Elias,164-35-07,March,2022,Sherin Kassamali,Reinfrida,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,N
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,N
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+John Omolo,164-52-40,March,2022,Kilalo Mjema,Shivangi Mandania,Christina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,D,Y,Y,Y
+Rihan Mbwelwa,158-97-37,March,2022,Elishah Premji,Waziri Gahhu,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Nyawayega Muhongo,158-33-33,March,2022,Sherin Kassamali,Gloria Manyaga,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Zakia Fihawango,010-34-33,March,2022,Kilalo Mjema,Valentino,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Godwin Matei,004-88-29,March,2022,Sherin Kassamali,Lumuliko,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Rudraunsha Adurty,164-29-29,March,2022,Hussein Manji,Waziri Gahhu,Batulana,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Ruhina Gajiyani,038-73-26,March,2022,Sherin Kassamali,Musa Machibya,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,,Christina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Ricardo Cepeda,159-55-23,March,2022,Sherin Kassamali,Musa Machibya,Christina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,ND,-,-,-
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,N
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,ND,-,-,-
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Anthony Msinjili,156-13-20,March,2022,Elishah Premji,Gulshan Khimji,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Alim Oztin,164-53-18,March,2022,Elishah Premji,Valentino,Basili,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Victoria Makondo,160-78-17,March,2022,Hussein Manji,Musa Machibya,Hamisi,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Janeth Mbinga,250-41-16,March,2022,,Shivangi Mandania,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,Gloria Manyaga,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Janeth Mbinga,250-41-16,March,2022,Elishah Premji,,Maalim,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,1.1,Physician Initial Assessment All components,P,ND,-,-,-
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Hamisi,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Apollo Simon,049-14-16,March,2022,Hussein Manji,Lumuliko,Judy,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,1.2,Nursing Initial Assessment All components,N,NA,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Manharlal Gorecha,048-88-14,March,2022,Sherin Kassamali,Valentino,Silas,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Sikina Ali,047-85-13,March,2022,Hussein Manji,,Michael Malulu,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Zhang Yunbiao,164-44-13,March,2022,Elishah Premji,Musa Machibya,Clementina,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,N,Y
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Amina Athman,163-25-13,March,2022,Elishah Premji,Moiz Adamjee,Glory,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Olga Chitete,164-36-14,March,2022,,Valentino,Basili,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,N
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,,,,
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,N,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Silas,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Valentino,Maalim,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Valentino,Maalim,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,D,Y,Y,Y
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Olga Chitete,164-36-14,March,2022,Sherin Kassamali,Gloria Manyaga,Maalim,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
+Godfrey Kibanza,164-36-13,March,2022,Muhanuzi Biita,Shivangi Mandania,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,N,N
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,N,Y
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,Nice Kagya,Sabry,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,D,Y,Y,Y
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,,Sabry,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Godfrey Kibanza,164-36-13,March,2022,Sherin Kassamali,Nice Kagya,Sabry,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Elishah Premji,Reinfrida,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,1.1,Physician Initial Assessment All components,P,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Basili,DAE,1.2,Nursing Initial Assessment All components,N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Basili,DAE,1.4,"Appropriate pain assessment, intervention and reassessment",N,D,Y,Y,N
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,2.2,"Nursing Re-Assessment (MEWS, PEWS & MEOWS)",N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Basili,DAE,2.3,"Fall Risk Assessment, Intervention and Reassessment",N,D,Y,Y,Y
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,3.2,Patient care orders on uniform location (Doctor's part),P,ND,-,-,-
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,3.3,Patient care orders on uniform location (Nurse's part),N,NA,-,-,-
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,4.1,Daily CPOE orders and Nursing signature for administration,N,NA,-,-,-
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,5.2,"Informed Consent Form (all procedures requiring consent i.e. anesthesia, sedation, BT, chemo, dialys",P,NA,-,-,-
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,5.4,Check the Discharge summary and DNR forms for any abbreviations,P,NA,-,-,-
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,5.5,Check Consent forms for any abbreviations,P,NA,-,-,-
+Innocent Msaky,036-81-10,March,2022,Sherin Kassamali,,Maalim,DAE,8.1,Discharge/Transfer/Referral Summary at exit,P,NA,-,-,-
