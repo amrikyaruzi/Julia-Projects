@@ -3,8 +3,11 @@ using Pkg;
 Pkg.add(
     ["Cascadia", "DataFrames", "DataFramesMeta", "GLM", "Gumbo", "HTTP", "JSON", "Tidier",
     "UrlDownload", "CSV", "IJulia", "Conda", "Distributions", "StatsBase", "Pipe", "Chain",
-    "TidierVest", "Printf", "ToolipsCrawl", "PrettyTables", "XLSX", "ToolipsCrawl", "Format"]
+    "TidierVest", "Printf", "ToolipsCrawl", "PrettyTables", "XLSX", "ToolipsCrawl", "Format",
+    "RCall]
     )
+
+pkg"add https://www.github.com/bicycle1885/Fmt.jl"
 
 #julia --project
 
