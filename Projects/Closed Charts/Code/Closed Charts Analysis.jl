@@ -71,9 +71,31 @@ end
 
 ### July 2023 onwards
 path2 = "./Data/1. Raw data/2023/All/July 2023 onwards/"
-files2 = glob("*.xlsx", path2)
+
+function read_xlsxs_after_july2023(path)
+    
+    files2 = glob("*.xlsx", path)
+    dfs2 = Vector{DataFrame}(undef, length(files2)) #Create a vector of empty dataframes.
+
+    for i in eachindex(files2)
+        dfs2[i] = DataFrame(XLSX.readtable(files2[i], "sheet1"))
+    end
+
+    for i in eachindex(dfs2)
+        rename!(dfs2[i], ["S.No", "MR.No",	"Visit/Adm No",	"Patient Name",	"Visit/Adm Date", "Consultant Code",
+        "Consultant", "Department", "Ward Name", "Document Name", "Document Type",	"Doc SNN",
+        "Documented",	"Timely",	"Legible",	"Complete",	"Accurate"])
+    end
+
+    dfs2 = vcat(dfs2...)    
+end
+
+@time df2 = read_xlsxs_after_july2023(path2)
 
 """
+path2 = "./Data/1. Raw data/2023/All/July 2023 onwards/"
+files2 = glob("*.xlsx", path2)
+
 dfs2 = Vector{DataFrame}(undef, length(files2))
 
 for file in files2
@@ -81,25 +103,4 @@ for file in files2
     #println(tempdf)
     push!(dfs2, tempdf)
 end
-"""
-
-dfs2 = Vector{DataFrame}(undef, length(files2)) #Create a vector of empty dataframes.
-
-for i in eachindex(files2)
-    dfs2[i] = DataFrame(XLSX.readtable(files2[i], "sheet1"))
-end
-
-for i in eachindex(dfs2)
-    rename!(dfs2[i], ["S.No", "MR.No",	"Visit/Adm No",	"Patient Name",	"Visit/Adm Date", "Consultant Code",
-    "Consultant", "Department", "Ward Name", "Document Name", "Document Type",	"Doc SNN",
-    "Documented",	"Timely",	"Legible",	"Complete",	"Accurate"])
-end
-
-dfs2 = vcat(dfs2...)
-
-dfs2
-
-
-"""
-dfs_ = DataFrame.(XLSX.readtable.(files2, "sheet1"))
 """
