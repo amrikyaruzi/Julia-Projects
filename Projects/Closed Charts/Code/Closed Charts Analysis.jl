@@ -41,16 +41,17 @@ df[!, "Sample"]
 select!(df, Not(["Sample"]))
 
 
-println(names(df))
-length(names(df))
+# length(names(df))
 
-for column in names(df)
-    if column in names(df)
-        println("COLUMN: $column is of TYPE: $(eltype(df[!, column]))")
-    else
-        println("")
-    end
-end
+
+#for column in names(df)
+#    if column in names(df)
+#        println("COLUMN: $column is of TYPE: $(eltype(df[!, column]))")
+#    else
+#        println("");
+#    end
+#end
+
 
 ### July 2023 onwards
 
@@ -76,47 +77,138 @@ end
 @time df2 = read_xlsxs_after_july2023(path2)
 
 
-for column in names(df2)
-    println("Column: $column is of type $(eltype(df2[!, column]))")
-end
-
 
 ## A&E
 ### Before July 2023
 
-df_ae_bjuly2023 = DataFrame(XLSX.readtable("./Data/1. Raw data/2023/All/Before July 2023/A&E/Microsoft Forms/A&E Closed Charts Audit(1-392).xlsx", "Sheet1"))
-select!(df_ae_bjuly2023, Not(Between("ID", "Name")))
+ae_bjuly23 = DataFrame(XLSX.readtable("./Data/1. Raw data/2023/All/Before July 2023/A&E/Microsoft Forms/A&E Closed Charts Audit(1-392).xlsx", "Sheet1"))
+select!(ae_bjuly23, Not(Between("ID", "Name")))
+
+
+ae_bjuly23 = stack(ae_bjuly23, Between("1.1 - Physician Initial Assessment All components - P",
+                                         last(names(ae_bjuly23))))
+
+
+transform!(ae_bjuly23, :value => ByRow(x -> ismissing(x) ? [missing] : string.(split(x, ";"))) => :value)
+ae_bjuly23 = flatten(ae_bjuly23, "value")
+
+
+dropmissing!(ae_bjuly23, "value")
+filter!(row -> !(ismissing(row.value) || row.value == ""), ae_bjuly23)
+
+# filter!(row -> !ismissing(row.value) && row.value != "", ae_bjuly23)
+
+transform!(ae_bjuly23, "value" => ByRow(x -> ismissing(x) ? [missing, missing] : split(x, "-")) => ["value", "Responses"])
+ae_bjuly23."variable" = replace.(ae_bjuly23."variable", Ref("2.2 - Nursing Re-Assessment (MEWS, PEWS & MEOWS) - N" => "2.2 - Nursing Re_Assessment (MEWS, PEWS & MEOWS) - N"))
+
+transform!(ae_bjuly23, "variable" => ByRow(x -> split(x, "-"#, limit = 3
+                                        )) => ["SNN", "DOCUMENTS", "TYPE"])
+
+ae_bjuly23."DOCUMENTS" = replace.(ae_bjuly23."DOCUMENTS", Ref(" Nursing Re_Assessment (MEWS, PEWS & MEOWS) " => " Nursing Re-Assessment (MEWS, PEWS & MEOWS) "))
+
+
+ae_bjuly23 = @chain ae_bjuly23 begin
+    groupby(_,["PATIENT NAMES", "MR Number", "Month", "Year", "DOCTOR", "RMO",
+               "NURSE", "SNN", "DOCUMENTS", "TYPE", "value"])
+    filter(g -> nrow(g) == 1, _)
+    DataFrame(_)
+end
+
+
+# SNN, TYPE
+select!(ae_bjuly23, Not("variable"))
+ae_bjuly23 = unstack(ae_bjuly23, "value", "Responses")
+
+@chain ae_bjuly23 begin
+    transform!(_, :Year => ByRow(x -> parse(Int, x)) => :Year)
+    transform!(_, :SNN => ByRow(x -> parse(Float64, x)) => :SNN)
+end
+
+rename!(ae_bjuly23, [strip(name) for name in names(ae_bjuly23)])
+
+transform!(ae_bjuly23, Between("DOCUMENTS", "COMPLETE") .=> ByRow(x -> ismissing(x) ? missing :  strip.(x)), renamecols = false)
+
+# @time rename!(ae_bjuly23, Dict(name => strip(name) for name in names(ae_bjuly23)))
+
+
+ae_bjuly23 = transform(ae_bjuly23) do df
+    transform(df) do row
+        if row.DOCUMENTED == "ND" &&
+                !((row.Year == 2022 && row.Month in ["October", "November", "December"]) ||
+                (row.Year == 2023 && row.Month in ["January", "February", "March"]))
+            for col in ["TIMELY", "LEGIBLE", "COMPLETE"]
+                row[col] = "-"
+            end
+        end
+        return row
+    end
+end
+
 
 """
-@chain df_ae_bjuly2023 begin
-    stack(_, Between("1.1 - Physician Initial Assessment All components - P",
-                      last(names(df_ae_bjuly2023))))
+for item in unique(ae_bjuly23.DOCUMENTS)
+    println(item)
+end
+"""
+
+transform!(ae_bjuly23) do df
+    # Convert "NA" strings to missing values across columns DOCUMENTED to COMPLETE
+    cols1 = names(df, Between("DOCUMENTED", "COMPLETE"))
+    for col in cols1
+        df[!, col] .= ifelse.(ismissing.(df[!, col]) .| (df[!, col] .== "NA"), missing, df[!, col])
+    end
+
+    # Convert "" strings to missing values in the RMO and NURSE columns
+    cols2 = ["RMO", "NURSE"]
+    for col in cols2
+        df[!, col] .= ifelse.(ismissing.(df[!, col]) .| (df[!, col] .== ""), missing, df[!, col])
+    end
+
+    # Convert PATIENT NAMES to upper case
+    transform!(df, "PATIENT NAMES" => ByRow(x -> uppercase(x)) => "PATIENT NAMES")
+
+end
+
+# Printing unique values in those columns
+for col in names(ae_bjuly23, Between("DOCUMENTED", "COMPLETE"))
+    println(unique(ae_bjuly23[!, col]))
+end
+
+
+"""
+
+#To take care of A&E's "D == 100%" performance in later iterations
+
+ae_bjuly23 <- ae_bjuly23 %>% mutate(across(c(DOCUMENTED:COMPLETE), ~na_if(.x, "NA")),
+                                  across(c(RMO, NURSE), ~na_if(.x, "")),
+                                  `PATIENT NAMES` = str_to_upper(`PATIENT NAMES`))
+
+ae_bjuly23 <- ae_bjuly23 %>% filter(!is.na(DOCUMENTED))
+
+colnames(ae_bjuly23) <- c("PATIENT.NAMES", "MR.Number", "Month", "Year", "DOCTOR", "RMO", "NURSE",
+                         "SNN", "DOCUMENTS", "TYPE", "DOCUMENTED", "TIMELY", "LEGIBLE", "COMPLETE")
+
+ae_bjuly23 <- ae_bjuly23 %>% mutate(Quarter = case_when(Month %in% c("January", "February", "March") ~ "Q1",
+                                                      Month %in% c("April", "May", "June") ~ "Q2",
+                                                      Month %in% c("July", "August", "September") ~ "Q3",
+                                                      Month %in% c("October", "November", "December") ~ "Q4"))
+
+ae_bjuly23 <- ae_bjuly23 %>% filter(DOCUMENTED %in% c("D", "ND"))
+
+ae_bjuly23 <- ae_bjuly23 %>% mutate(DEPT = "A&E") %>%
+  mutate(MET = case_when(
     
-    select(_, Between("variable", last(names(_))))
-end #variable = DOCUMENTS, value = Values
-"""
+    DOCUMENTED %in% "D" & TIMELY %in% "Y" & LEGIBLE %in% "Y" & COMPLETE %in% "Y" ~ "M",
+    TRUE ~ "NM")
+    
+  )
 
-df_ae_bjuly2023 = stack(df_ae_bjuly2023, Between("1.1 - Physician Initial Assessment All components - P",
-                                         last(names(df_ae_bjuly2023))))
-
-transform!(df_ae_bjuly2023, :value => ByRow(x -> ismissing(x) ? [missing] : string.(split(x, ";"))) => :value)
-df_ae_bjuly2023 = flatten(df_ae_bjuly2023, "value")
-
-# filter(row -> !(ismissing(row.value) || row.value == ""), df_ae_bjuly2023)
-
-filter!(row -> !ismissing(row.value) && row.value != "", df_ae_bjuly2023)
-
-"""
-emergency_bj223 <- emergency_bj223 %>% separate_wider_delim(cols = Values, delim = "-", names = c("Values", "Responses"))
-
-emergency_bj223 <- emergency_bj223 %>% separate_wider_delim(cols = DOCUMENTS,
-                                                delim = " - ",
-                                                names = c("SNN", "DOCUMENTS", "TYPE"))
+ae_bjuly23 <- ae_bjuly23 %>%
+  select(MR.Number, Month, Year, Quarter, DOCTOR, DEPT, SNN, DOCUMENTS, TYPE, DOCUMENTED, TIMELY,
+         LEGIBLE, COMPLETE, MET, RMO, NURSE) %>%
+  rename(AKNO = MR.Number)
 
 
-emergency_bj223 <- emergency_bj223 %>%
-  group_by(`PATIENT NAMES`, `MR Number`, Month, Year, DOCTOR, RMO, NURSE, SNN, DOCUMENTS, TYPE,
-           Values) %>% filter(n() == 1) %>% ungroup()
 
 
 ### July 2023 onwards
