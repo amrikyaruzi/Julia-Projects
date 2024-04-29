@@ -6,6 +6,7 @@ using CSV
 using XLSX
 using DataFrames
 using DataFramesMeta
+using Missings
 using Chain
 using RCall
 
@@ -16,12 +17,13 @@ what_months = month_abb[1:3] # start from Jan to current end month
 what_year = 2023
 
 # Reading files in
-
+tick()
 ## All departments except A&E
 ### Before July 2023
 path = "./Data/1. Raw data/2023/All/Before July 2023"
 
-
+dfs = [CSV.read(file, DataFrame) for file in glob("*.csv", path)]
+vcat(dfs...)
 
 function read_csvs(path)
     files = glob("*.csv", path)
@@ -40,7 +42,7 @@ df = read_csvs(path)
 df[!, "Sample"]
 select!(df, Not(["Sample"]))
 
-
+tock()
 # length(names(df))
 
 
@@ -57,6 +59,29 @@ select!(df, Not(["Sample"]))
 
 path2 = "./Data/1. Raw data/2023/All/July 2023 onwards/"
 
+
+tick()
+
+function read_xlsxs_after_july2023(path2)
+    
+    dfs2 = [DataFrame(XLSX.readtable(file, "sheet1")) for file in glob("*.xlsx", path2)]
+
+    for i in eachindex(dfs2)
+        rename!(dfs2[i],
+        ["S.No", "MR.No", "Visit/Adm No", "Patient Name", "Visit/Adm Date", "Consultant Code",
+        "Consultant", "Department", "Ward Name", "Document Name", "Document Type",	"Doc SNN",
+        "Documented", "Timely", "Legible",	"Complete",	"Accurate"])
+    end
+    vcat(dfs2...)
+end
+
+read_xlsxs_after_july2023(path2)
+
+tock()
+
+
+"""
+tick()
 function read_xlsxs_after_july2023(path)
     
     files2 = glob("*.xlsx", path)
@@ -74,8 +99,9 @@ function read_xlsxs_after_july2023(path)
     dfs2 = vcat(dfs2...)    
 end
 
-@time df2 = read_xlsxs_after_july2023(path2)
-
+df2 = read_xlsxs_after_july2023(path2)
+tock()
+"""
 
 
 ## A&E
@@ -87,6 +113,11 @@ select!(ae_bjuly23, Not(Between("ID", "Name")))
 
 ae_bjuly23 = stack(ae_bjuly23, Between("1.1 - Physician Initial Assessment All components - P",
                                          last(names(ae_bjuly23))))
+
+"""
+transform!(ae_bjuly23, :value => ByRow(passmissing(x -> string.(split(x, ";")))) => :value)
+transform!(ae_bjuly23, :value => ByRow(passmissing(x -> flatten.(x))) => :value)
+"""
 
 
 transform!(ae_bjuly23, :value => ByRow(x -> ismissing(x) ? [missing] : string.(split(x, ";"))) => :value)
